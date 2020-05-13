@@ -1,0 +1,10 @@
+{
+    "python.linting.pylintArgs": [
+        "--disable=missing-docstring",
+        "--disable=invalid-name"
+    ],
+    "python.pythonPath": "C:\\Python27\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.jediEnabled": false
+}
